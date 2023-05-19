@@ -108,7 +108,7 @@ export default function Home() {
           <h1 className="font-semibold text-2xl text-center mt-10 lg:mt-16 text-white">
             Malumotlarni ko&apos;rish uchun bosing
           </h1>
-          <div>
+          <div className="w-8 h-8 mx-auto animate-bounce mt-10">
             <ArrowDown />
           </div>
           <Link

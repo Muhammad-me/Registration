@@ -8,7 +8,7 @@ export default function ArrowDown() {
         fill="white"
         strokeWidth={1.5}
         stroke="#fff"
-        className="w-8 h-8 mx-auto animate-bounce mt-10"
+        className="w-8 h-8"
       >
         <path
           strokeLinecap="round"
